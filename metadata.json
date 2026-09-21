@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Rhythmic Deep Work & Productivity",
+  "description": "An intentional, rhythmic productivity platform engineered for deep focus, flow states, and cognitive clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
